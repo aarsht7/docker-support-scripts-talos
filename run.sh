@@ -7,4 +7,4 @@ docker run --privileged -it \
  --env="TERM=xterm-256color" \
  -h talos-sim.local \
  --name "talos-simulation" \
-1at7/talos-simulation:v.1.0
+1at7/talos-simulation:v.1.4
